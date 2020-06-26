@@ -1,0 +1,16 @@
+.scoreBoardContainer {
+background-image: url("https://i.pinimg.com/originals/3e/8a/63/3e8a637c22013178bbeeac85f2e61c66.jpg");
+background-size: cover;
+border: 1px solid teal;
+border-radius: 10px;
+box-shadow: 10px 15px 20px teal;
+padding: 30px 20px;
+    width: 400px;
+    height: 225px;
+    top: 100px;
+    color: white;
+    float: left;
+}
+h1 {
+    font-size: 25px;
+}

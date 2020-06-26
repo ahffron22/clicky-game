@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "fin",
+    "image": "https://pm1.narvii.com/6354/3144e13dc421af7879232428b6921d907341b104_00.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "name": "princess",
+    "image": "https://vignette.wikia.nocookie.net/adventuretimewhattimeisit/images/3/32/20110416161902%21Princess_bubblegum.jpg/revision/latest?cb=20120226235544",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor",
+    "value": 1
+  },
+  {
+    "id": 3,
+    "name": "Pen Isman",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNAA-vEPRuKZg39rxa_XYknxyKU2Qc0r5Uew&usqp=CAU",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 4,
+    "name": "Witch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzoC3HuPaICA4mRxT5a38daPoxvrFnj8fo9g&usqp=CAU",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 5,
+    "name": "King",
+    "image": "https://www.pngitem.com/pimgs/m/0-6878_adventure-time-characters-hd-png-download.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 6,
+    "name": "Snail",
+    "image": "https://www.netclipart.com/pp/m/126-1263059_character-transparent-adventure-time-adventure-time-characters-snail.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 7,
+    "name": "mint",
+    "image": "https://www.clipartkey.com/mpngs/m/245-2458633_peppermint-butler-cartoon-adventure-time-characters.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 8,
+    "name": "Cloudy",
+    "image": "https://i.ya-webdesign.com/images/characters-adventure-time-clipart-3.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 9,
+    "name": "melted carmel",
+    "image": "https://www.pinclipart.com/picdir/middle/0-6481_adventure-time-clipart-clip-art-candy-kingdom-adventure.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 10,
+    "name": "Dr. Greenthumb",
+    "image": "https://www.pngitem.com/pimgs/m/211-2118450_adventure-time-grass-finn-green-adventure-time-characters.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 11,
+    "name": "Skull Man",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/death_adventure_time_3986.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  },
+  {
+    "id": 12,
+    "name": "emo kid",
+    "image": "https://p.kindpng.com/picc/s/16-165048_marshall-lee-day-time-adventure-time-characters-male.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head",
+    "value": 1
+  }
+]
